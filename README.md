@@ -2,8 +2,10 @@
 
 <p align="center">
 Este repositório fornece scripts relacionados à previsão de precipitações do município de Tianguá (CE) utilizando algoritmos de Machine Learning (ML) e método de explicabilidade Local Interpretable Model-Agnostic Explanations (LIME).
+
+<div align="justify">
   
-O projeto de pesquisa é fruto de orientação e coordenação do Prof. Me. Rhyan Ximenes de Brito, docente do Instituto Federal do Ceará (IFCE) Campus Tianguá, juntamente com os seguintes pesquisadores e autores do curso de Bacharelado de Ciência da Computação (BCC):
+O projeto de pesquisa é fruto de orientação e coordenação do **Prof. Me. Rhyan Ximenes de Brito**, docente do Instituto Federal do Ceará (IFCE) Campus Tianguá, juntamente com os seguintes pesquisadores e autores do curso de Bacharelado de Ciência da Computação (BCC):
 
 * Ananias C. de Oliveira (concludente do BCC, bolsista PIBIC/IFCE 2020-2021)
 * Maria Auxiliadora de Oliveira Chaves (discente do BCC, bolsista PICTV/IFCE 2024-2025)
@@ -12,9 +14,6 @@ O projeto de pesquisa é fruto de orientação e coordenação do Prof. Me. Rhya
 * Paulo César de Almeida Júnior (docente do IFCE, coordenador PICTV)
 
 </p>
-
-
-<div align="justify">
 
  ## 📋 Requisitos
 
