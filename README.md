@@ -45,8 +45,6 @@ O projeto de pesquisa é fruto de orientação e coordenação do Prof. Me. Rhya
   
 ## 📖  Conjunto de Dados
 
-https://zenodo.org/records/14914786
-
 O <a href="https://zenodo.org/records/14914786"><strong>conjunto de dados</strong></a>, denominado Conjunto de Dados Tiangua (A368) de Precipitações, foi coletado por meio de uma estação meteorológica automática localizada em Tianguá, um município do Estado do Ceará. Ela pode ser encontrada no banco de dados do Instituto Nacional de Meteorologia (INMET) do Brasil. Os dados foram coletados entre 15/03/2018 e 11/05/2021, gerando assim um total de 27655 registros.
 
 O conjunto de dados é composto por 19 atributos, as quais representam as grandezas relativas à temperatura do ar, umidade relativa do ar, temperatura do ponto de orvalho, pressão atmosférica do ar, velocidade do vento, direção do vento, intensidade da rajada do vento e radiação solar, em que algumas dessas categorias variam entre valor instantâneo, mínimo e máximo.
