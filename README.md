@@ -62,7 +62,7 @@ Os resultados deste estudo foram compilados em artigo científico submetido e so
 
 ### [Paper Link]
 
-## 👏 Contribuindo
+## 👏 Contribuições
 
 Se houver um bug ou outra melhoria que você gostaria de relatar ou solicitar, nós o encorajamos a contribuir.
 
