@@ -60,7 +60,7 @@ Ademais, a decisão sobre o melhor modelo de ML entre os modelos avaliados neste
 
 Os resultados deste estudo foram compilados em artigo científico submetido e sob revisão na <a href="https://seer.ufrgs.br/reic"> <strong>Revista Eletrônica de Iniciação Científica em Computação</strong></a>
 
-### [Paper Link]
+### <a href="https://journals-sol.sbc.org.br/index.php/reic/article/view/5420"><strong>[Paper Link]</strong></a> 
 
 ## 👏 Contribuições
 
